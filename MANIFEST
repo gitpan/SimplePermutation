@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/SimplePermutation.t
+lib/SimplePermutation.pm
+META.yml                                 Module meta-data (added by MakeMaker)
